@@ -1,0 +1,1 @@
+var Component=require("montage/ui/component").Component;exports.Image=Component.specialize({_src:{value:null},src:{set:function(e){e!==this._src&&(this._src=e,this.needsDraw=!0)}},draw:{value:function(){this._element.style.backgroundImage=this._src?"url("+this._src+")":"url(assets/image/no-poster.jpg)"}}});

@@ -1,0 +1,1 @@
+montageDefine("49c9e31","ui/moviestrip.reel/image.reel/image.html",{text:'<!DOCTYPE html><html><head>\n    <meta http-equiv=content-type content="text/html; charset=utf-8">\n    <script type=text/montage-serialization>{"owner":{"properties":{"element":{"#":"owner"}}}}</script>\n</head>\n<body>\n    <div data-montage-id=owner class=Image></div>\n\n</body></html>'});

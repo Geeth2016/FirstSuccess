@@ -1,0 +1,1 @@
+montageDefine("49c9e31","ui/moviestrip.reel/overlay.reel/overlay",{dependencies:["montage/ui/component"],factory:function(e,t){var n=e("montage/ui/component").Component;t.Overlay=n.specialize({})}});
